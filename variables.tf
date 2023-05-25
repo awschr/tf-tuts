@@ -14,6 +14,6 @@ variable "name_tag" {
    type        = string
    description = "Name of the EC2 instance"
    default     = "My EC2 Instance"
-   
+ 
 }
 
